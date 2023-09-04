@@ -1,4 +1,4 @@
-<h3 align="center">Hi there I'm Shady Amr <br/> I'm a Jr. Software Engineer</h3>
+<h3 align="center">Hi there I'm Shady Amr <br/> I'm a Software Engineer Student </h3>
 
  - [![Profile%20views](https://komarev.com/ghpvc/?username=shadyAmrHosny&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/shadyAmrHosny)  [![GitHubFollowers: shadyAmrHosny](https://img.shields.io/github/followers/shadyAmrHosny?style=social)](https://github.com/shadyAmrHosny)
 [![GitHubUserStars: shadyAmrHosny](https://img.shields.io/github/stars/shadyAmrHosny?style=social)](https://github.com/shadyAmrHosny)
@@ -14,10 +14,10 @@
 
 <h3 align="center"> Important Projects/Repos </h3>
             
-
-<a href="https://github.com/shadyAmrHosny/Memory-management.git">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=shadyAmrHosny&repo=CPU-Schedulers-Simulator&layout=compact&theme=tokyonight" />
-</a>  
+<a href="https://github.com/shadyAmrHosny/Memory-management">
+  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=shadyAmrHosny&repo=Memory-managemen&layout=compact&theme=tokyonight" />
+</a>
+    &emsp;&emsp;&nbsp;&nbsp; 
 
 
 
