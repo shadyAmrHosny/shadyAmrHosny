@@ -9,19 +9,6 @@
  - [📫 reach me](#contact-me).
  
 
-<br/>
-<!-- Important Projects/Repos -->
-
-<h3 align="center"> Important Projects/Repos </h3>
-            
-<a href="https://github.com/shadyAmrHosny/Memory-management">
-  <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/pin/?username=shadyAmrHosny&repo=Memory-managemen&layout=compact&theme=tokyonight" />
-</a>
-    &emsp;&emsp;&nbsp;&nbsp; 
-
-
-
-</p>
 
 
 <!-- Github Stats -->
