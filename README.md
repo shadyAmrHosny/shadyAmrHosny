@@ -96,4 +96,4 @@
 <!-- contact me -->
 
 ## contact me
-[![linkedin](/imgs/linkedin.png)](https://www.linkedin.com/in/amr-mahmoud-668118227/)
+[![linkedin](/imgs/linkedin.png)](https://www.linkedin.com/in/shady-amr-a1b75528b/)
