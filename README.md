@@ -1,86 +1,19 @@
-<h3 align="center">Hi there I'm Shady Amr <br/> I'm a Software Engineer Student </h3>
+<h1 align="center">Hi 👋, I'm Shady Amr Hosny</h1>
+<h3 align="center">Software Engineer</h3>
 
- - [![Profile%20views](https://komarev.com/ghpvc/?username=shadyAmrHosny&label=Profile%20views&color=791279&logo=profile&style=FOR-THE-BADGE)](https://github.com/shadyAmrHosny)  [![GitHubFollowers: shadyAmrHosny](https://img.shields.io/github/followers/shadyAmrHosny?style=social)](https://github.com/shadyAmrHosny)
-[![GitHubUserStars: shadyAmrHosny](https://img.shields.io/github/stars/shadyAmrHosny?style=social)](https://github.com/shadyAmrHosny)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadyamrhosny&label=Profile%20views&color=0e75b6&style=flat" alt="shadyamrhosny" /> </p>
 
-<!-- - I am currently learning [**`PNPT`**](https://certifications.tcm-sec.com/pnpt/), -->
- - Studying at *Faculty of Computers and Artificial Intelligence Cairo University* 
- - *Software Engineering Department*
- - [📫 reach me](#contact-me).
- 
+- 📫 How to reach me **shadyamrhosny@gmail.com**
 
-
-
-<!-- Github Stats -->
-
-<h3 align="center"> Github Stats </h3>
-<!--
-            &nbsp; -> space
-            &emsp; -> 4x(&nbsp;)
--->
-<!-- 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=shadyAmrHosny&theme=darkhub&margin-w=15&margin-h=15&column=8&v=2" alt="Shady stats" />
-</p> -->
-
-<p align="left">
-    <img height="165" src="https://github-readme-stats-mmsaeed509.vercel.app/api?username=shadyAmrHosny&count_private=true&include_all_commits=true&theme=tokyonight" alt="shady's stats" /> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats-mmsaeed509.vercel.app/api/top-langs/?username=shadyAmrHosny&layout=compact&theme=tokyonight" alt="Shady top language stats" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shady-amr-a1b75528b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shady-amr-a1b75528b/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadyamrhosny&show_icons=true&locale=en" alt="shadyamrhosny" /></p>
 
-<!--  -->
-<p align="center">
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AmrMahmoudSaid&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=1A1B27"/>
-<!--   
-  <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-light-mode-only"/>
-  <img src="https://github.com/AmrMahmoudSaid/AmrMahmoudSaid/blob/snake/snake-dark.svg#gh-dark-mode-only"/>
-   -->
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadyamrhosny&" alt="shadyamrhosny" /></p>
 
-<!-- Github Stats -->
-
-<!-- ###########################################  ########################################### -->
-
-<!-- Important Projects -->
-
-
-
-
-<!-- ###########################################  ########################################### -->
-
-
-
-<!-- ###########################################  ########################################### -->
-
-<!-- Skills ( Languages & Tools ) -->
-<!-- 
-### Skills ( Languages & Tools ):
-[![windows](https://img.shields.io/badge/OS-windows-05122A?style=plastic&logo=windows&logoColor=informational&color=informational)](https://www.microsoft.com/en-us/windows)
-[![virtual-Box](https://img.shields.io/badge/VM-virtual%20Box-05122A?style=plastic&logo=virtualBox&color=informational)](https://www.virtualbox.org/)
-[![qemu](https://img.shields.io/badge/VM-qemu-05122A?style=plastic&logo=qemu&color=informational)](https://www.qemu.org/)
-[![Git](https://img.shields.io/badge/git-Git-05122A?style=plastic&logo=git&color=informational)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/tool-GitHub-05122A?style=plastic&logo=github&&color=informational)](https://github.com/)
-[![jetbrains](https://img.shields.io/badge/jetbrains-jetbrains-05122A?style=plastic&logo=jetbrains&color=informational)](https://www.jetbrains.com/)
-[![IntelliJ Idea](https://img.shields.io/badge/jetbrains-IntelliJ%20Idea-05122A?style=plastic&logo=intellij-idea&color=informational)](https://www.jetbrains.com/idea/)
-[![Clion](https://img.shields.io/badge/jetbrains-CLion-05122A?style=plastic&logo=clion&color=informational)](https://www.jetbrains.com/clion/)
-[![DataGrip](https://img.shields.io/badge/jetbrains-DataGrip-05122A?style=plastic&logo=datagrip&color=informational)](https://www.jetbrains.com/datagrip/)
-[![PyCharm](https://img.shields.io/badge/jetbrains-pycharm-05122A?style=plastic&logo=pycharm&color=informational)](https://www.jetbrains.com/pycharm/)
-[![Visual Studio Code](https://img.shields.io/badge/tool-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&color=informational)](https://code.visualstudio.com/)
-[![Java](https://img.shields.io/badge/language-Java-05122A?style=plastic&logo=Java&color=informational)](https://www.java.com/en/)
-[![C++](https://img.shields.io/badge/language-C++-05122A?style=plastic&logo=c%2B%2B&color=informational)](https://www.cprogramming.com/)
-[![C](https://img.shields.io/badge/language-C-05122A?style=plastic&logo=c&color=informational)](https://www.cprogramming.com/)
-[![Python](https://img.shields.io/badge/language-Python-05122A?style=plastic&logo=python&color=informational)](https://www.python.org/)
-[![Markdown](https://img.shields.io/badge/language-Markdown-05122A?style=plastic&logo=markdown&color=informational)](https://www.markdownguide.org/) -->
-<!-- [![Containers](https://img.shields.io/badge/Containers-Docker-05122A?style=plastic&logo=docker&color=informational)](https://www.docker.com/)
- -->
-<!-- Skills ( Languages & Tools ) -->
-
-<!-- ###########################################  ########################################### -->
-
-<!-- contact me -->
-
-## contact me
-[![linkedin](/imgs/linkedin.png)](https://www.linkedin.com/in/shady-amr-a1b75528b/)
