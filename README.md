@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadyamrhosny&label=Profile%20views&color=0e75b6&style=flat" alt="shadyamrhosny" /> </p>
 
 - 📫 How to reach me **shadyamrhosny@gmail.com**
+- *Graduated from the Faculty of Computers and Artificial Intelligence, Cairo University* 
+ - *Software Engineering Department (2024).*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
